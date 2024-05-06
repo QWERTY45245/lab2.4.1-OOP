@@ -1,0 +1,8 @@
+﻿  Matrix.cpp
+  Source.cpp
+C:\Users\Admin\Desktop\ООП\lab2.4ООП\lab2.4ООП\Source.cpp(12,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+C:\Users\Admin\Desktop\ООП\lab2.4ООП\lab2.4ООП\Matrix.cpp(25,1): error C4716: 'Matrix::operator=': must return a value
+C:\Users\Admin\Desktop\ООП\lab2.4ООП\lab2.4ООП\Matrix.cpp(102,1): error C4716: 'operator>>': must return a value
+C:\Users\Admin\Desktop\ООП\lab2.4ООП\lab2.4ООП\Matrix.cpp(83,1): error C4716: 'Matrix::operator[]': must return a value
+C:\Users\Admin\Desktop\ООП\lab2.4ООП\lab2.4ООП\Matrix.cpp(79,1): error C4716: 'Matrix::operator std::basic_string<char,std::char_traits<char>,std::allocator<char> >': must return a value
